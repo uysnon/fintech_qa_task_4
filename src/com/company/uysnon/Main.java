@@ -2,7 +2,7 @@ package com.company.uysnon;
 
 import java.util.Scanner;
 
-public class Main {
+ public class Main {
 
     private static final String [][] STRINGS_HELLO_WORLD =
             {
